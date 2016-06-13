@@ -1,2 +1,4 @@
 # Lexique typographique
 
+Un lexique 
+
