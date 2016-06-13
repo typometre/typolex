@@ -1,4 +1,4 @@
 # Summary
 
-* Lexique typographique
+* [Lexique typographique](lexique_typographique.md)
 
